@@ -3,4 +3,4 @@
 - 👀 I’m interested in cutting edge of tech revolving around artificial intelligence and machine learning and it's impact on society.
 - 🌱 I’m currently learning SwiftUI, Angular, and Microservices using Java/Spring
 - 🤝 I’m looking to collaborate on any Django/Spring based backend project. Would love to dive into any ML possible.
-- 📫 Email me: powellatyler@gmail.com or hit me up on LinkedIn: linkedin.com/in/typow
+- 📫 Email me: powellatyler@gmail.com or hit me up on LinkedIn: https://www.linkedin.com/in/typow
